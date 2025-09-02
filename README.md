@@ -20,7 +20,7 @@
 - 🎓 **MCA & BCA graduate** with excellent academic record (CGPA 9.15, First Class with Distinction)  
 - 📄 Author of research paper: [*Building High-Performance Rust Applications: A Focus on Memory Efficiency*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4518760)  
 - 🧑‍🏫 Mentored 300+ students in coding (Python, Web Dev, ML) during teaching roles  
-- 🌱 Always exploring new skills such as; **scalable systems, Rust performance, and AI integration**
+- 🌱 Always exploring new skills such as; **scalable systems with new frameworks required for projects, AI applications and integrations**, etc
 
 ---
 
