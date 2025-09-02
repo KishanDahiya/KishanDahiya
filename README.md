@@ -16,11 +16,11 @@
 
 ### 🚀 About Me
 - 💼 **Backend Developer** at [HeartCore, Inc.](https://www.heartcore.com/) (Tokyo, Japan)  
-- 🤖 Experienced in **AI-driven development** (LLMs, ML, Rust performance optimization)  
+- 🤖 Experienced little in **AI-driven development** (LLMs, ML, Rust performance optimization as part of Research Project )
 - 🎓 **MCA & BCA graduate** with excellent academic record (CGPA 9.15, First Class with Distinction)  
-- 📄 Co-author of research paper: [*Building High-Performance Rust Applications: A Focus on Memory Efficiency*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4518760)  
+- 📄 Author of research paper: [*Building High-Performance Rust Applications: A Focus on Memory Efficiency*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4518760)  
 - 🧑‍🏫 Mentored 300+ students in coding (Python, Web Dev, ML) during teaching roles  
-- 🌱 Always exploring **scalable systems, Rust performance, and AI integration**
+- 🌱 Always exploring new skills such as; **scalable systems, Rust performance, and AI integration**
 
 ---
 
